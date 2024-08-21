@@ -10,4 +10,13 @@
 4. 对Player更多的功能
 等等其他的功能
 让你的开发更快，更好
-<a target= "_blank" href= "http://domain.mimvp.com" >API文档</a>
+官网 <a target= 
+        "_blank" 
+        href= 
+        "http://domain.mimvp.com" 
+        >http: 
+        //domain 
+        .mimvp.com< 
+        /a 
+        >
+
